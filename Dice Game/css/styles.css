@@ -1,0 +1,23 @@
+body{
+  background-color: #11324D;
+  color: #6B7AA1;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container-fluid{
+  padding: 7% 15%;
+}
+
+.title{
+  font-family: 'Sacramento', cursive;
+  font-size: 4rem;
+  font-weight: bold;
+  padding-bottom: 10%;
+}
+
+.dice-image{
+  margin-top: 20px;
+  width: 200px;
+  height: 200px;
+}
